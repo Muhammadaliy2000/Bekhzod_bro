@@ -9,6 +9,9 @@ import uz.pdp.service.User_service.UserService;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+llkmlkjlkljl
+kmlmlmk
+kl;mk;km
 
 public class FrontEnd {
     public static void home() {
